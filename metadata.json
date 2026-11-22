@@ -1,0 +1,6 @@
+{
+  "name": "Parallel Parking: Cart Chaos",
+  "description": "A physics-based 3D browser mini-game where you parallel park a rogue shopping cart with terrible caster wheels, reverse drift, and supermarket obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
